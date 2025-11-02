@@ -31,11 +31,6 @@ It visualizes **confirmed cases, recoveries, deaths, and trends over time**, all
 
 ---
 
-### 📂 File Structure
-
-
----
-
 ### 🚀 How to Open the Dashboard
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
@@ -63,8 +58,7 @@ Special thanks to Shri Ramswaroop Memorial University and mentors for their guid
 
 ---
 
-### 🖼️ Preview
-*(Add your dashboard screenshot below if available)*  
+### 🖼️ Preview 
 ![Dashboard Preview](dashboard_preview.png)
 
 
