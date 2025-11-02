@@ -1,5 +1,19 @@
 # 🦠 COVID-19 Analytics Power BI Dashboard
 
+### 📘 College Project – BCA (Data Science + AI) in Collaboration with IBM  
+**Subject:** Data Analytics and Reporting  
+**Faculty Mentor:** Mr. Sukhmander Singh (IBM Faculty)
+
+---
+
+## 👨‍💻 Team Members
+| Name | Roll Number |
+|------|--------------|
+| Ganesh Kumar Verma | 130 |
+| Abhash Mayank | 179 |
+| Raj Sharma | 129 |
+
+---
 ### 📊 Project Overview
 This Power BI project analyzes the global impact of COVID-19 using interactive dashboards.  
 It visualizes **confirmed cases, recoveries, deaths, and trends over time**, allowing users to explore data by **country, region, and timeline**.
@@ -46,17 +60,29 @@ It visualizes **confirmed cases, recoveries, deaths, and trends over time**, all
 
 ---
 
-### 👨‍💻 Author
-**Ganesh Kumar Verma**  
-📧 [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-verma108/)
+## 👨‍🏫 Project Guidance
+
+This project was assigned and guided by **Mr. Sukhmander Singh (IBM Faculty)** as part of the **IBM Collaboration Program** under the subject *Data Analytics and Reporting.*  
+We express our gratitude for his support and mentorship throughout the project.
 
 ---
 
-### 🏆 Acknowledgments
-Special thanks to Shri Ramswaroop Memorial University and mentors for their guidance and support in data analytics and Power BI visualization.
+## 👨‍💻 Authors
+
+**Team Members – BCA (Data Science + AI), Shri Ramswaroop Memorial University**
+
+| Name | Roll No. | Role |
+|------|-----------|------|
+| **Ganesh Kumar Verma** | 130 | Data Modeling, Dashboard Design |
+| **Abhash Mayank** | 179 | Data Cleaning, DAX Calculations |
+| **Raj Sharma** | 129 | Visualization & Report Structuring |
 
 ---
+
+## 🏆 Acknowledgments
+
+We sincerely thank **Shri Ramswaroop Memorial University** and **IBM Faculty Members** for providing us with the opportunity to work on this real-world analytics project, helping us enhance our practical understanding of data visualization and reporting using **Power BI**.
+
 
 ### 🖼️ Preview 
 ![Dashboard Preview](dashboard_preview.png)
