@@ -71,11 +71,11 @@ We express our gratitude for his support and mentorship throughout the project.
 
 **Team Members – BCA (Data Science + AI), Shri Ramswaroop Memorial University**
 
-| Name | Roll No. | Role |
-|------|-----------|------|
-| **Ganesh Kumar Verma** | 130 | Data Modeling, Dashboard Design |
-| **Abhash Mayank** | 179 | Data Cleaning, DAX Calculations |
-| **Raj Sharma** | 129 | Visualization & Report Structuring |
+| Name | Roll No. | Role | LinkedIn | Email |
+|------|-----------|------|-----------|--------|
+| **Ganesh Kumar Verma** | 130 | Data Modeling, Dashboard Design | [LinkedIn](https://www.linkedin.com/in/ganesh-verma108/) | [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com) |
+| **Abhash Mayank** | 179 | Data Cleaning, DAX Calculations | [LinkedIn](#) | [abhashmayank@example.com](mailto:mayankabhash12@gmail.com) |
+| **Raj Sharma** | 129 | Visualization & Report Structuring | [LinkedIn](#) | [rajsharma@example.com](mailto:raj6307529@gmail.com) |
 
 ---
 
