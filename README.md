@@ -74,8 +74,8 @@ We express our gratitude for his support and mentorship throughout the project.
 | Name | Roll No. | Role | LinkedIn | Email |
 |------|-----------|------|-----------|--------|
 | **Ganesh Kumar Verma** | 130 | Data Cleaning, DAX Calculations | [LinkedIn](https://www.linkedin.com/in/ganesh-verma108/) | [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com) |
-| **Abhash Mayank** | 179 | Data Modeling, Dashboard Design | [LinkedIn](#) | [abhashmayank@example.com](mailto:mayankabhash12@gmail.com) |
-| **Raj Sharma** | 129 | Visualization & Report Structuring | [LinkedIn](#) | [rajsharma@example.com](mailto:raj6307529@gmail.com) |
+| **Abhash Mayank** | 179 | Data Modeling, Dashboard Design | [LinkedIn](https://www.linkedin.com/in/abhash-mayank-0347902b1/) | [mayankabhash12@gmail.com](mailto:mayankabhash12@gmail.com) |
+| **Raj Sharma** | 129 | Visualization & Report Structuring | [LinkedIn](#) | [raj6307529@gmail.com](mailto:raj6307529@gmail.com) |
 
 ---
 
