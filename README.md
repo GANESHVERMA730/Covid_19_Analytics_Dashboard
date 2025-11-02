@@ -33,3 +33,38 @@ It visualizes **confirmed cases, recoveries, deaths, and trends over time**, all
 
 ### 📂 File Structure
 
+
+---
+
+### 🚀 How to Open the Dashboard
+1. Download the `.pbix` file from this repository.
+2. Open it using **Power BI Desktop**.
+3. Explore the dashboard and interact with filters, maps, and visuals.
+
+---
+
+### 📚 Learning Objectives
+- Understand data cleaning and transformation using Power Query  
+- Build relationships between datasets  
+- Create KPIs, measures, and calculated columns using DAX  
+- Design professional dashboards with interactive visuals  
+
+---
+
+### 👨‍💻 Author
+**Ganesh Kumar Verma**  
+📧 [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-verma108/)
+
+---
+
+### 🏆 Acknowledgments
+Special thanks to Shri Ramswaroop Memorial University and mentors for their guidance and support in data analytics and Power BI visualization.
+
+---
+
+### 🖼️ Preview
+*(Add your dashboard screenshot below if available)*  
+![Dashboard Preview](dashboard_preview.png)
+
+
